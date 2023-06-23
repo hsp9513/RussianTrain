@@ -1,0 +1,9 @@
+{
+    "name": "RussianTrain",
+    "version": "0.0.1",
+    "title": "Russian Train",
+    "author": "hsp9513",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+	"description": "In russia, a train get hit by you!"
+}
